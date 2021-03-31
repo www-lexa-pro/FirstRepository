@@ -1,14 +1,7 @@
 Hello world!
 12345
 Good bye!
-<<<<<<< HEAD
-another line from user1
-=======
 line from user2
-<<<<<<< HEAD
->>>>>>> 3b79bc7... file changed by user2
-line from user1
 =======
 line from user1
 some new feature
->>>>>>> 62d0c3f... add new feature
